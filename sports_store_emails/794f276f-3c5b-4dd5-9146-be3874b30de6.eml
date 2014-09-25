@@ -1,0 +1,16 @@
+X-Sender: sportsstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: sportsstore@example.com
+To: orders@example.com
+Date: 11 Feb 2014 18:30:05 +0600
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems: =0D=0A1*Lifej=
+acket(subtotal: $48.95)1*Soccer Ball(subtotal: $19.50)1*Kayak(sub=
+total: $275.00)2*Stadium(subtotal: $191,000.00)Total order value:=
+ $191,343.45---=0D=0AShip to:=0D=0AMd Ahsanul Hoque=0D=0A17/4, To=
+llabagh,Mohammapur=0D=0A=0D=0A=0D=0ADhaka=0D=0AMohammodpur=0D=0A1=
+207=0D=0ABangladesh=0D=0A---=0D=0AGift wrap: Yes

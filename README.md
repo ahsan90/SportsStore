@@ -1,0 +1,3 @@
+==README
+This is simple Asp.net 4.5 based ecommerce web Application.
+This aaplication is developed for learning purposes.....
